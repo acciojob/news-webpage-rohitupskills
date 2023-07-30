@@ -8,6 +8,7 @@ body{
     display:flex;
 	justify-content:center;
 	padding-top:15px;
+	text-align:center;
 /* 	align-item:center; */
 	background-color:#001E29;
 	color:white;
